@@ -1,3 +1,8 @@
 body{
     background: #BDBDBD;
 }
+/* Edit this one if the centering is broken */
+.container-fluid {
+    max-width:1100px;
+    margin:auto;
+    }
